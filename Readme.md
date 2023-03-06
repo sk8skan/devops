@@ -6,6 +6,7 @@ Project Test Devops
 
 - Java Spring Boot 
 - Java 1.8
+- Docker
 
 
 ## JWT 
